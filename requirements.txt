@@ -1,2 +1,9 @@
 streamlit
-openai
+streamlit-option-menu
+numpy
+pandas
+geopandas
+branca
+folium
+streamlit-folium
+scikit-learn
